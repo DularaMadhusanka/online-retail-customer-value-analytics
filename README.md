@@ -26,11 +26,7 @@ Online retailers can observe what customers purchased in the past, but historica
 The predictions are combined into an operational customer-value estimate:
 
 $$
-\widehat{V}_i
-=
-\widehat{P}(\text{return}_i)
-\times
-\widehat{E}(\text{future revenue}_i\mid\text{return}_i)
+\widehat{V}_i = \widehat{P}(\text{return}_i) \times \widehat{E}(\text{future revenue}_i \mid \text{return}_i)
 $$
 
 > **Important interpretation:** This output is a fixed-horizon expected future-revenue proxy. It is not a complete profit-based lifetime value because the dataset does not contain contribution margins, campaign costs or acquisition costs.
