@@ -103,25 +103,6 @@ The final customer-level modelling dataset contains **4,266 customers** and **30
 
 ---
 
-## Analysis workflow
-
-Run the notebooks in numerical order.
-
-| Notebook | Purpose | Open in Colab |
-|---|---|---|
-| [`01_data_audit_and_cleaning.ipynb`](notebooks/01_data_audit_and_cleaning.ipynb) | Audit, clean and separate purchases and returns | [Open](https://colab.research.google.com/github.com/DularaMadhusanka/online-retail-customer-value-analytics/blob/main/notebooks/01_Data_Audit_and_Cleaning.ipynb) |
-| [`02_descriptive_analysis.ipynb`](notebooks/02_descriptive_analysis.ipynb) | Explore customer behaviour and initial business patterns | [Open](https://colab.research.google.com/github/YOUR_USERNAME/online-retail-customer-value-analytics/blob/main/notebooks/02_descriptive_analysis.ipynb) |
-| [`03_statistical_inference.ipynb`](notebooks/03_statistical_inference.ipynb) | Conduct Levene, Welch and proportion tests | [Open](https://colab.research.google.com/github/YOUR_USERNAME/online-retail-customer-value-analytics/blob/main/notebooks/03_statistical_inference.ipynb) |
-| [`04_predictive_modelling.ipynb`](notebooks/04_predictive_modelling.ipynb) | Build and evaluate the final two-stage model | [Open](https://colab.research.google.com/github/YOUR_USERNAME/online-retail-customer-value-analytics/blob/main/notebooks/04_predictive_modelling.ipynb) |
-| [`05_experimental_design.ipynb`](notebooks/05_experimental_design.ipynb) | Evaluate CRD and RCBD for a future retention experiment | [Open](https://colab.research.google.com/github/YOUR_USERNAME/online-retail-customer-value-analytics/blob/main/notebooks/05_experimental_design.ipynb) |
-| [`06_pca_evaluation.ipynb`](notebooks/06_pca_evaluation.ipynb) | Evaluate whether dimensionality reduction is appropriate | [Open](https://colab.research.google.com/github/YOUR_USERNAME/online-retail-customer-value-analytics/blob/main/notebooks/06_pca_evaluation.ipynb) |
-| [`07_bayesian_analysis.ipynb`](notebooks/07_bayesian_analysis.ipynb) | Evaluate Naive Bayes and Bayesian Ridge alternatives | [Open](https://colab.research.google.com/github/YOUR_USERNAME/online-retail-customer-value-analytics/blob/main/notebooks/07_bayesian_analysis.ipynb) |
-| [`08_time_series_analysis.ipynb`](notebooks/08_time_series_analysis.ipynb) | Analyse monthly revenue and seasonal forecasts | [Open](https://colab.research.google.com/github/YOUR_USERNAME/online-retail-customer-value-analytics/blob/main/notebooks/08_time_series_analysis.ipynb) |
-
-> Replace `YOUR_USERNAME` in the Colab links after creating the GitHub repository.
-
----
-
 ## Features used in the final models
 
 <details open>
