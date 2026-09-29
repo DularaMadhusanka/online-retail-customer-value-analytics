@@ -249,10 +249,9 @@ online-retail-customer-value-analytics/
 │   ├── 02_descriptive_analysis.ipynb
 │   ├── 03_statistical_inference.ipynb
 │   ├── 04_predictive_modelling.ipynb
-│   ├── 05_experimental_design.ipynb
-│   ├── 06_pca_evaluation.ipynb
-│   ├── 07_bayesian_analysis.ipynb
-│   └── 08_time_series_analysis.ipynb
+│   ├── 05_pca_evaluation.ipynb
+│   ├── 06_bayesian_analysis.ipynb
+│   └── 07_time_series_analysis.ipynb
 ├── data/
 │   ├── README.md
 │   ├── cleaned/
