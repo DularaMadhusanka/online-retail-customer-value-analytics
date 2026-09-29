@@ -236,6 +236,39 @@ online-retail-customer-value-analytics/
 
 ---
 
+## Repository structure
+
+```text
+online-retail-customer-value-analytics/
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── .gitignore
+├── notebooks/
+│   ├── 01_data_audit_and_cleaning.ipynb
+│   ├── 02_descriptive_analysis.ipynb
+│   ├── 03_statistical_inference.ipynb
+│   ├── 04_predictive_modelling.ipynb
+│   ├── 05_experimental_design.ipynb
+│   ├── 06_pca_evaluation.ipynb
+│   ├── 07_bayesian_analysis.ipynb
+│   └── 08_time_series_analysis.ipynb
+├── data/
+│   ├── README.md
+│   ├── cleaned/
+│   └── processed/
+├── dashboard/
+│   ├── app.py
+│   └── requirements.txt
+├── outputs/
+│   ├── figures/
+│   └── tables/
+├── reports/
+└── docs/
+```
+
+---
+
 ## Run the project
 
 ### 1. Clone the repository
