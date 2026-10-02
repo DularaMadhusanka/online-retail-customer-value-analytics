@@ -1,0 +1,6 @@
+Measure,Count
+Original rows,1067371
+Rows after duplicate removal,1033036
+Identified-customer rows,797885
+Valid purchase rows,779425
+Return or cancellation rows,18390
