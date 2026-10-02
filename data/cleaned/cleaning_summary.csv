@@ -1,0 +1,5 @@
+Stage,Rows,Rows_Removed_From_Original,Percentage_Retained
+Original dataset,1067371,0,100.0
+After removing duplicates,1055238,12133,98.86328183921054
+Identifiable customers,812368,255003,76.10924411474548
+Valid positive purchases,793609,273762,74.35174836116028
